@@ -9,7 +9,7 @@ Some of the files were rearranged, meaning that a part of the initial code had t
 
 ----------------------------------------------------------------------------------------------
 
-/Users/paolamateo/Desktop/Screen Shot 2021-12-29 at 3.50.02 PM.pdf
-/Users/paolamateo/Desktop/Screen Shot 2021-12-29 at 3.43.08 PM.pdf
-/Users/paolamateo/Desktop/Screen Shot 2021-12-29 at 3.43.20 PM.pdf
-/Users/paolamateo/Desktop/Screen Shot 2021-12-29 at 3.43.34 PM.pdf
+file:///Users/paolamateo/Desktop/Screen%20Shot%202021-12-29%20at%203.50.02%20PM.png
+file:///Users/paolamateo/Desktop/Screen%20Shot%202021-12-29%20at%203.43.08%20PM.png
+file:///Users/paolamateo/Desktop/Screen%20Shot%202021-12-29%20at%203.43.20%20PM.png
+file:///Users/paolamateo/Desktop/Screen%20Shot%202021-12-29%20at%203.43.34%20PM.png
