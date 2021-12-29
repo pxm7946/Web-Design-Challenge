@@ -8,8 +8,9 @@ Several skills were applied to this homework assignment, such as using Pandas to
 Some of the files were rearranged, meaning that a part of the initial code had to be rewritten in order for it to rightfully access the images and files. Although 2 out of the 6 images that are shown in the main page seem to be cropped, the size just needs to be changed. This can be accomplished in a CSS file that has been provided already. Even with this small flaw, everything else seems to be interactive. When one clicks on the images from the main page, a closer look is shown along with a small data analysis. The same action can be reached when clicking on the "Plots" tab. In the "Comparison" tab, all of the four graphs are seen in one window in order to compare and contrast the correlation between each factor. Lastly, for the "Data" tab, the table of the cities that were observed has been attached. This is the same table that was initially a CSV file and imported as a HTML using the Pandas library. The last tab, "Repo", was not necessarily part of the instructions for this specific homework assignment, however, I found it useful to attach the link in order to go back and forth and see exactly how the website was created. 
 
 ----------------------------------------------------------------------------------------------
+![Screen Shot 2021-12-29 at 3 50 02 PM](https://user-images.githubusercontent.com/72631173/147706921-85890cdc-3e42-48bc-8f96-6cc9eaefd785.png)
+![Screen Shot 2021-12-29 at 3 43 08 PM](https://user-images.githubusercontent.com/72631173/147706927-20cb5fcc-a61c-471e-9a3c-c935c7fd27a3.png)
+![Screen Shot 2021-12-29 at 3 43 20 PM](https://user-images.githubusercontent.com/72631173/147706926-b5ce1b45-e047-453e-b550-94909ee135d1.png)
+![Screen Shot 2021-12-29 at 3 43 34 PM](https://user-images.githubusercontent.com/72631173/147706924-071acac1-53ac-43ba-898f-0cf35f43cd31.png)
 
-Screen Shot 2021-12-29 at 3.50.02 PM
-Screen Shot 2021-12-29 at 3.43.08 PM
-Screen Shot 2021-12-29 at 3.43.20 PM
-Screen Shot 2021-12-29 at 3.43.34 PM
+
